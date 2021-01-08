@@ -1,0 +1,6 @@
+[
+  "imports/a.ts",
+  "more-imports/a.ts",
+  "imports/c.ts",
+  "imports/b.ts"
+]
